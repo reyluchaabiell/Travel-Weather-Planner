@@ -4,81 +4,80 @@ Travel Weather Planner is a smart program that helps determine whether you can t
 
 
 🚀 Travel Weather Planner
-“Keputusan cerdas sebelum kamu melangkah.”
+“Smart decisions before you go.”
 
-Pernah bingung mau berangkat atau tidak saat cuaca tidak menentu?
-Atau ragu kendaraan apa yang paling tepat untuk perjalananmu?
+Ever been confused about whether to go when the weather is unpredictable?
+Or unsure which vehicle is best for your trip?
 
-Travel Weather Planner hadir sebagai solusi sederhana namun cerdas untuk membantu kamu mengambil keputusan dengan cepat dan tepat.
+Travel Weather Planner is a simple yet smart solution to help you make quick and accurate decisions.
 
-🧠 Apa yang dilakukan program ini?
+🧠 What does this program do?
 
-Program ini bekerja seperti asisten pribadi digital yang:
+It works like a digital personal assistant that:
 
-Menganalisis kondisi perjalanan kamu
-Mempertimbangkan cuaca 🌧️
-Mengevaluasi jarak 📏
-Menilai ketersediaan kendaraan 🚲🚗📱
+Analyzes your travel conditions
+Considers the weather
+Evaluates distance
+Assesses vehicle availability
+And then…
 
-Dan kemudian…
+👉 Makes a decision:
+“Can I go or not?”
 
-👉 Memberikan keputusan:
-“Bisa berangkat atau tidak?”
+👉 Even more than that…
+This program also provides:
 
-👉 Bahkan lebih dari itu…
-Program ini juga memberikan:
+Best transportation suggestions
+Clear reasons if the trip isn't possible
+⚡ Why is this program powerful?
 
-Saran transportasi terbaik
-Alasan jelas jika perjalanan tidak memungkinkan
-⚡ Kenapa program ini powerful?
+Because it doesn't just answer "yes" or "no."
 
-Karena dia tidak hanya menjawab “ya” atau “tidak”.
+It thinks like a human:
 
-Dia berpikir seperti manusia:
+If it's raining → look for a covered alternative
+If it's close → walk is sufficient
+If it's intermediate → bike or other options
+If it's far → need a serious vehicle
 
-Kalau hujan → cari alternatif tertutup
-Kalau dekat → jalan kaki cukup
-Kalau menengah → sepeda atau opsi lain
-Kalau jauh → butuh kendaraan serius
+👉 This isn't just logic…
+This is a simulation of real-world decisions.
 
-👉 Ini bukan sekadar logika…
-Ini adalah simulasi keputusan dunia nyata.
+🎯 User Experience
 
-🎯 Pengalaman pengguna
-
-Daripada melihat output membingungkan seperti:
+Instead of seeing confusing output like:
 
 True / False ❌
 
-Kamu akan mendapatkan:
+You'll get:
 
-✅ “Perjalanan bisa dilakukan”
-🚗 “Gunakan mobil”
+✅ "The trip is possible"
+🚗 "Use the car"
 
-atau
+or
 
-❌ “Perjalanan tidak bisa dilakukan”
-🌧️ “Karena sedang hujan dan tidak ada kendaraan”
+❌ "The trip is not possible"
+🌧️ "Because it's raining and there are no vehicles"
 
-👉 Jelas.
-👉 Manusiawi.
-👉 Langsung bisa dipakai.
+👉 Clear.
+👉 Human.
+👉 Usable immediately.
 
-💡 Filosofi di balik program
+💡 Philosophy behind the program
 
-Program ini dibangun dengan prinsip:
+This program is built on the principle:
 
-“Kode bukan hanya untuk mesin, tapi untuk manusia.”
+"Code isn't just for machines, it's for people."
 
-Karena keputusan yang baik bukan hanya benar secara logika,
-tetapi juga mudah dipahami dan berguna dalam kehidupan nyata.
+Because good decisions are not only logically correct,
+but also easy to understand and useful in real life.
 
-🔥 Kesimpulan
+🔥 Conclusion
 
-Travel Weather Planner bukan sekadar latihan Python.
+Travel Weather Planner isn't just a Python exercise.
 
-Ini adalah:
+It's:
 
-simulasi pengambilan keputusan
-latihan berpikir logis
-dan langkah awal menuju membuat aplikasi yang benar-benar berguna
+a decision-making simulation
+a logical thinking exercise
+and the first step toward creating a truly useful application
